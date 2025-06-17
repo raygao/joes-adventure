@@ -1,0 +1,29 @@
+@startuml
+
+left to right direction
+actor Joe as User
+
+package WeatherForecast {
+  usecase "Web UI" as UI
+  usecase "Authentication" as authentication
+  usecase "Home City" as preference
+  usecase "Weather Forcast" as forecast
+  usecase "Travel Recommendation" as recommendations
+}
+
+package TravelAdvisory {
+  usecase "Get Travel Advisory" as getAdvisory
+  usecase "Return Advisory" as advise
+}
+
+User --> UI : "interacts with Web UI"
+UI --> authentication
+authentication --> UI : "returns authentication"
+UI --> forecast : "directs to page"
+UI --> preference
+UI --> recommendations
+
+recommendations --> getAdvisory : "Request Advisory & pass in forecast"
+advise --> recommendations : "Return Travel Advisory"
+
+@enduml

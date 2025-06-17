@@ -1,0 +1,395 @@
+├─ @next/env@13.5.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ publisher: Next.js Team
+│  ├─ email: support@vercel.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@next/env
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@next/env/README.md
+├─ @next/swc-darwin-arm64@13.5.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@next/swc-darwin-arm64
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@next/swc-darwin-arm64/README.md
+├─ @seald-io/binary-search-tree@1.0.3
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/seald/node-binary-search-tree
+│  ├─ publisher: Timothée Rebours
+│  ├─ email: tim@seald.io
+│  ├─ url: https://www.seald.io/
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@seald-io/binary-search-tree
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@seald-io/binary-search-tree/LICENSE.md
+├─ @seald-io/nedb@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/seald/nedb
+│  ├─ publisher: Timothée Rebours
+│  ├─ email: tim@seald.io
+│  ├─ url: https://www.seald.io/
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@seald-io/nedb
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@seald-io/nedb/LICENSE.md
+├─ @swc/helpers@0.5.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/swc-project/swc
+│  ├─ publisher: 강동윤
+│  ├─ email: kdy1997.dev@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@swc/helpers
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/@swc/helpers/LICENSE
+├─ available-typed-arrays@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/available-typed-arrays
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/available-typed-arrays
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/available-typed-arrays/LICENSE
+├─ bcryptjs@2.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dcodeIO/bcrypt.js
+│  ├─ publisher: Daniel Wirtz
+│  ├─ email: dcode@dcode.io
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/bcryptjs
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/bcryptjs/LICENSE
+├─ busboy@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mscdex/busboy
+│  ├─ publisher: Brian White
+│  ├─ email: mscdex@mscdex.net
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/busboy
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/busboy/LICENSE
+├─ call-bind-apply-helpers@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind-apply-helpers
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bind-apply-helpers
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bind-apply-helpers/LICENSE
+├─ call-bind@1.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bind
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bind/LICENSE
+├─ call-bound@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bound
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bound
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/call-bound/LICENSE
+├─ caniuse-lite@1.0.30001707
+│  ├─ licenses: CC-BY-4.0
+│  ├─ repository: https://github.com/browserslist/caniuse-lite
+│  ├─ publisher: Ben Briggs
+│  ├─ email: beneb.info@gmail.com
+│  ├─ url: http://beneb.info
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/caniuse-lite
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/caniuse-lite/LICENSE
+├─ client-only@0.0.1
+│  ├─ licenses: MIT
+│  └─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/client-only
+├─ define-data-property@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/define-data-property
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/define-data-property
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/define-data-property/LICENSE
+├─ dunder-proto@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/dunder-proto
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/dunder-proto
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/dunder-proto/LICENSE
+├─ es-define-property@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-define-property
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-define-property
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-define-property/LICENSE
+├─ es-errors@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-errors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-errors
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-errors/LICENSE
+├─ es-object-atoms@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-object-atoms
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-object-atoms
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/es-object-atoms/LICENSE
+├─ for-each@0.3.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/for-each
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/for-each
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/for-each/LICENSE
+├─ function-bind@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/function-bind
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/function-bind/LICENSE
+├─ get-intrinsic@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/get-intrinsic
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/get-intrinsic/LICENSE
+├─ get-proto@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-proto
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/get-proto
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/get-proto/LICENSE
+├─ glob-to-regexp@0.4.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/fitzgen/glob-to-regexp
+│  ├─ publisher: Nick Fitzgerald
+│  ├─ email: fitzgen@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/glob-to-regexp
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/glob-to-regexp/README.md
+├─ gopd@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/gopd
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/gopd
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/gopd/LICENSE
+├─ graceful-fs@4.2.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-graceful-fs
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/graceful-fs
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/graceful-fs/LICENSE
+├─ has-property-descriptors@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-property-descriptors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-property-descriptors
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-property-descriptors/LICENSE
+├─ has-symbols@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-symbols
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-symbols/LICENSE
+├─ has-tostringtag@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-tostringtag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-tostringtag
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/has-tostringtag/LICENSE
+├─ hasown@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/hasOwn
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/hasown
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/hasown/LICENSE
+├─ immediate@3.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/immediate
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/immediate
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/immediate/LICENSE.txt
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/inherits
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/inherits/LICENSE
+├─ is-arguments@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-arguments
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-arguments
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-arguments/LICENSE
+├─ is-callable@1.2.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-callable
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-callable
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-callable/LICENSE
+├─ is-generator-function@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-generator-function
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-generator-function
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-generator-function/LICENSE
+├─ is-regex@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-regex
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-regex
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-regex/LICENSE
+├─ is-typed-array@1.1.15
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-typed-array
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-typed-array
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/is-typed-array/LICENSE
+├─ js-tokens@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lydell/js-tokens
+│  ├─ publisher: Simon Lydell
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/js-tokens
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/js-tokens/LICENSE
+├─ lie@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/lie
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/lie
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/lie/license.md
+├─ localforage@1.10.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/localForage/localForage
+│  ├─ publisher: Mozilla
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/localforage
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/localforage/LICENSE
+├─ loose-envify@1.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zertosh/loose-envify
+│  ├─ publisher: Andres Suarez
+│  ├─ email: zertosh@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/loose-envify
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/loose-envify/LICENSE
+├─ math-intrinsics@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/math-intrinsics
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/math-intrinsics
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/math-intrinsics/LICENSE
+├─ nanoid@3.3.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ai/nanoid
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/nanoid
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/nanoid/LICENSE
+├─ next@13.5.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/next.js
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/next
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/next/license.md
+├─ picocolors@1.1.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/alexeyraspopov/picocolors
+│  ├─ publisher: Alexey Raspopov
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/picocolors
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/picocolors/LICENSE
+├─ possible-typed-array-names@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/possible-typed-array-names
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/possible-typed-array-names
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/possible-typed-array-names/LICENSE
+├─ postcss@8.4.31
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/postcss/postcss
+│  ├─ publisher: Andrey Sitnik
+│  ├─ email: andrey@sitnik.ru
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/postcss
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/postcss/LICENSE
+├─ react-dom@18.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/react-dom
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/react-dom/LICENSE
+├─ react@18.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/react
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/react/LICENSE
+├─ safe-regex-test@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/safe-regex-test
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/safe-regex-test
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/safe-regex-test/LICENSE
+├─ scheduler@0.23.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/facebook/react
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/scheduler
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/scheduler/LICENSE
+├─ set-function-length@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/set-function-length
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/set-function-length
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/set-function-length/LICENSE
+├─ source-map-js@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/7rulnik/source-map-js
+│  ├─ publisher: Valentin 7rulnik Semirulnik
+│  ├─ email: v7rulnik@gmail.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/source-map-js
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/source-map-js/LICENSE
+├─ streamsearch@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mscdex/streamsearch
+│  ├─ publisher: Brian White
+│  ├─ email: mscdex@mscdex.net
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/streamsearch
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/streamsearch/LICENSE
+├─ styled-jsx@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/styled-jsx
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/styled-jsx
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/styled-jsx/license.md
+├─ tslib@2.8.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/tslib
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/tslib/LICENSE.txt
+├─ util@0.12.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/node-util
+│  ├─ publisher: Joyent
+│  ├─ url: http://www.joyent.com
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/util
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/util/LICENSE
+├─ uuid@9.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/uuidjs/uuid
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/uuid
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/uuid/LICENSE.md
+├─ watchpack@2.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/webpack/watchpack
+│  ├─ publisher: Tobias Koppers @sokra
+│  ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/watchpack
+│  └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/watchpack/LICENSE
+├─ weather-app@1.0.0
+│  ├─ licenses: UNKNOWN
+│  └─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend
+└─ which-typed-array@1.1.19
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/inspect-js/which-typed-array
+   ├─ publisher: Jordan Harband
+   ├─ email: ljharb@gmail.com
+   ├─ url: http://ljharb.codes
+   ├─ path: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/which-typed-array
+   └─ licenseFile: /Volumes/2TB-NVME/home/raymondgao/Desktop/joes_code/code/chapter-13-foss-scanning/frontend/node_modules/which-typed-array/LICENSE
+

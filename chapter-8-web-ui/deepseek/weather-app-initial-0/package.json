@@ -1,0 +1,17 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "@seald-io/nedb": "^3.0.4",
+      "bcryptjs": "^2.4.3",
+      "next": "^13.4.7",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "uuid": "^9.0.0"
+    }
+  }

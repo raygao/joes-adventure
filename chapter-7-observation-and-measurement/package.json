@@ -1,0 +1,18 @@
+{
+  "name": "chapter-6-security-and-preferences",
+  "version": "1.0.0",
+  "main": "weather-2-security.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@seald-io/nedb": "^4.0.4",
+    "bcrypt": "^5.1.1",
+    "nedb": "^1.8.0",
+    "readline": "^1.3.0"
+  }
+}

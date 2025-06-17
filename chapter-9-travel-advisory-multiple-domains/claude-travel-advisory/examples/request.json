@@ -1,0 +1,14 @@
+{
+  "city": "Chicago",
+  "weather": {
+    "today": {
+      "temperature": "43°F",
+      "forecast": "Mostly Sunny",
+      "wind": "East wind 10-15 mph"
+    },
+    "tonight": {
+      "temperature": "42°F",
+      "forecast": "Thunderstorms"
+    }
+  }
+}

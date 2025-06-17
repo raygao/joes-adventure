@@ -1,0 +1,43 @@
+@startuml
+Title: SCRIPT stands for Subject Creates Relevant, Impactful and Polished Technology/Tools
+skinparam actor {
+  BackgroundColor ACTOR_COLOR
+  BorderColor black
+  FontColor black
+  FontSize 12
+}
+
+actor "Subject" as User
+
+rectangle "Create" as Create
+rectangle "Relevant" as Relevant
+rectangle "Impactful" as Impact
+rectangle "Polished" as Polished
+rectangle "Technology" as Technology
+
+rectangle "What you want built" as Objective
+rectangle "what is the Context" as Context
+rectangle "Is it really Useful" as Useful
+rectangle "Iterations process" as Iterations
+rectangle "Good Result" as Result
+
+User -right-> Create : Design
+Create -right-> Relevant : Scope
+Relevant -right-> Impact : Usability
+Impact -right-> Polished : Features
+Polished -right-> Technology : Result
+
+Technology  -left-> Polished : Tangible
+Polished -left-> Impact : Functions
+Impact -left-> Relevant : User Experience
+Relevant -left-> Create : Boundary
+Create -left-> User : Implementation
+
+Create -down-> Objective : Objective
+Relevant -down-> Context : Objective
+Impact -down-> Useful : Objective
+Polished -down-> Iterations : Objective
+Technology -down-> Result : Objective
+'Subject Creates Relevant, Impactful and Polished Tools
+
+@enduml

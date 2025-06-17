@@ -1,0 +1,16 @@
+@startuml
+
+actor User
+
+rectangle "Weather App" as WeatherAPP
+rectangle "Weather App to NOAA API" as NOAA
+rectangle "Database" as DB
+
+User -right-> WeatherAPP : Enter GPS  / Previous Request
+WeatherAPP -right-> NOAA : Send Weather Request
+NOAA -left-> WeatherAPP : Return Forecast‚
+WeatherAPP -left-> User : Display Forecast
+WeatherAPP -down-> DB : Save History
+DB -up-> WeatherAPP : Return History or Home City Coordinates
+
+@enduml

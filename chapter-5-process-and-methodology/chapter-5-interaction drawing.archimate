@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-ee0d607f8e4440329bb1ff299dc264ca" version="5.0.0">
+  <folder name="Strategy" id="id-d616d96b1bd8453ebcc15289312a6ccd" type="strategy"/>
+  <folder name="Business" id="id-d340f6ac69e24f479857fc47ecefbc70" type="business">
+    <element xsi:type="archimate:BusinessObject" name="Business Object" id="id-764568cb86b243e0a6c950cfbef147c6"/>
+  </folder>
+  <folder name="Application" id="id-d712645c1eee482d9795791a726aa500" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-6a07b9b9f52a4a549b0b6830fa029464" type="technology"/>
+  <folder name="Motivation" id="id-8029730c35424ff29a05f0c815e71c8d" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-1419d55864e849a8833e78ffea2a5cb6" type="implementation_migration"/>
+  <folder name="Other" id="id-498d7beb35b2414c8d1e14739c06df69" type="other">
+    <element xsi:type="archimate:Grouping" name=" Scenario: User retrieves a weather forecast" id="id-bdf166e10934480e9ede6a11017ac9d4"/>
+    <element xsi:type="archimate:Grouping" name="Scenario: User enters invalid coordinates" id="id-ca92c1389915472caa5f56afb8a72c4c"/>
+    <element xsi:type="archimate:Grouping" name=" Scenario: User requests more days than available" id="id-2b8f7207085d4ec38391564051a54350"/>
+  </folder>
+  <folder name="Relations" id="id-08d2b23cd1a44b5fbcae15edf8f286cc" type="relations"/>
+  <folder name="Views" id="id-315b7ddd355c409ca5d0ec5e36c1ab00" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-1b3ebb0ab97045c2a49f481e77f4c21e">
+      <child xsi:type="archimate:Group" id="id-8e1b1098f7f24c22bd9ca1aa2c2837ab" name="Tests for Weather Forecast" fontColor="#ffffff" textAlignment="1" fillColor="#008080">
+        <bounds x="384" y="48" width="361" height="337"/>
+      </child>
+      <child xsi:type="archimate:Group" id="id-9baba83be80d455b9c4c49af531ccf01" name="Weather Forecast (functions)" textAlignment="1" fillColor="#ffff80">
+        <bounds x="24" y="72" width="349" height="313"/>
+        <child xsi:type="archimate:Note" id="id-feb1b032f9e14b249ea52838150d2c78" textAlignment="1">
+          <bounds x="24" y="216" width="185" height="80"/>
+          <sourceConnection id="id-45d054e30b5349fabcfd671516be6f4f" source="id-feb1b032f9e14b249ea52838150d2c78" target="id-dad9274fd3b04bcdbd951c666bf97720"/>
+          <content>Input Handling Module - getUserInput(question)</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-239746d84a8947a299152d02275bc2e4" targetConnections="id-4a5df721c0044c7a9b55d4fa8bc1ec43" textAlignment="1">
+          <bounds x="24" y="120" width="185" height="80"/>
+          <content>Weather Fetching Module - fetchWeather(latitude, longitude, days) {...}</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-3f7f5b03047d4961bd8ef915c2f250a2" targetConnections="id-f3ef1e081c6143658f6620f84367a2b3" textAlignment="1">
+          <bounds x="24" y="24" width="185" height="80"/>
+          <content>Display Module - displayWeather(name, forecast) { … }</content>
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-dad9274fd3b04bcdbd951c666bf97720" targetConnections="id-45d054e30b5349fabcfd671516be6f4f" textAlignment="1" archimateElement="id-2b8f7207085d4ec38391564051a54350">
+        <bounds x="420" y="312" width="289" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-ae51277117a7452da4d6f398ba0f2a29" textAlignment="1" archimateElement="id-ca92c1389915472caa5f56afb8a72c4c">
+        <bounds x="420" y="204" width="289" height="61"/>
+        <sourceConnection id="id-4a5df721c0044c7a9b55d4fa8bc1ec43" source="id-ae51277117a7452da4d6f398ba0f2a29" target="id-239746d84a8947a299152d02275bc2e4"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-1b0bdf0f122d484d8e6b31595e685a78" textAlignment="1" archimateElement="id-bdf166e10934480e9ede6a11017ac9d4">
+        <bounds x="420" y="84" width="289" height="61"/>
+        <sourceConnection id="id-f3ef1e081c6143658f6620f84367a2b3" source="id-1b0bdf0f122d484d8e6b31595e685a78" target="id-3f7f5b03047d4961bd8ef915c2f250a2"/>
+      </child>
+    </element>
+  </folder>
+</archimate:model>

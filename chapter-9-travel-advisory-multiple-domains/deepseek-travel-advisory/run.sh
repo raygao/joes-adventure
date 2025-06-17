@@ -1,0 +1,1 @@
+curl -X POST http://localhost:3500/recommendations  -H "Content-Type: application/json"  -d '{"city": "Paris", "weather": "Sunny with 25°C"}'

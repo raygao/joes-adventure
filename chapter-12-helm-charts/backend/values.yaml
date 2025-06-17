@@ -1,0 +1,27 @@
+replicaCount: 1
+
+image:
+  repository: raymondgao/backend
+  tag: latest
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 3500
+  targetPort: 3500
+  protocol: TCP
+
+env:
+  PORT: 3500
+
+ingress:
+  enabled: true
+  host: backend.local
+
+resources: {}
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}

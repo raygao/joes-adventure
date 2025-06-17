@@ -1,0 +1,12 @@
+{
+  "requestId": "a1b2c3d4-1234-5678-9012-abcdef123456",
+  "recommendations": [
+    "Visit the Eiffel Tower and enjoy panoramic views",
+    "Take a Seine River cruise in the pleasant weather",
+    "Explore outdoor cafes and enjoy French cuisine",
+    "Stroll through the Luxembourg Gardens",
+    "Visit open-air markets like Marché Bastille"
+  ],
+  "city": "Paris",
+  "weather": "Sunny with 25°C"
+}

@@ -1,0 +1,10 @@
+# runtime-config.yaml
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: frontend-runtime-config
+data:
+  runtime-config.json: |
+    {
+      "NEXT_PUBLIC_BACKEND_URL": "http://backend.local:3500"
+    }
