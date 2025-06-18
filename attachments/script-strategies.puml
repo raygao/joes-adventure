@@ -1,0 +1,76 @@
+@startuml
+
+title High Level SCRIPT 
+
+' Coloring for box types
+skinparam rectangle {
+    BorderColor white
+}
+
+'box colors
+skinparam packageBorderColor white
+skinparam packageBackgroundColor<<Top>> #D7E3AB
+skinparam packageBackgroundColor<<Context_Management>> #C4896C
+skinparam packageBackgroundColor<<Objective_Management>>#B6B5E1
+skinparam packageBackgroundColor<<Starting_Point_Management>> #CA94C3
+
+actor Joe as User
+
+' Top Level Group (colored box)
+package "Top Level" <<Top>> {
+    usecase "define viewpoint" as UC1
+    usecase "manage context" as UC2
+    usecase "starting point" as UC4
+    usecase "set objective" as UC3
+}
+
+usecase "add secondary viewpoints" as second_viewpoint
+
+' Context Management Group (colored box)
+package "Context Management" <<Context_Management>> {
+    usecase "ctx broadening" as broadening
+    usecase "ctx narrowing" as narrowing
+    usecase "ctx shifting" as shifting
+    usecase "ctx joining" as joining
+    usecase "ctx stiffening" as stiffening
+}
+
+' Objective Management group
+package "Objective Management" <<Objective_Management>> {
+    usecase "obj tightening" as tightening 
+    usecase "obj loosening" as loosening  
+    usecase "obj decorating" as decorating  
+    usecase "obj smoothing" as smoothing  
+}
+
+' Starting Point group
+package "Starting Point Actions" <<Starting_Point_Management>> {
+    usecase "dart on the wall" as darting
+    usecase "educated guess" as guessing
+    usecase "by example" as exampling
+}
+
+' Relationships
+User --> UC1
+User --> UC2
+User --> UC3
+User --> UC4
+
+UC2 --|> broadening : <<extend>>
+UC2 --|> narrowing : <<extend>>
+UC2 --|> shifting : <<extend>>
+UC2 --|> joining : <<extend>>
+UC2 --|> stiffening : <<extend>>
+
+UC1 --|> second_viewpoint : <<extend>>
+
+UC3 --|> tightening : <<extend>>
+UC3 --|> loosening : <<extend>>
+UC3 --|> decorating : <<extend>>
+UC3 --|> smoothing : <<extend>>
+
+UC4 --|> darting : <<extend>>
+UC4 --|> guessing : <<extend>>
+UC4 --|> exampling : <<extend>>
+
+@enduml

@@ -3,7 +3,10 @@ Here you find the source code (companion).
 The book titled - Joe's Adventure in Architecture, Using SCRIPT to maximize GenAI potential in Application Development, is written by Raymond Gao, © 2025.
 
 ![My Screenshot](./images/book-cover.png)
-- [Cheatsheet](./attachments/cheat-sheet.pdf)
+
+![Cheat Sheet](./attachments/cheat-sheet.png)
+
+[Cheat-sheet.pdf](./attachments/cheat-sheet.pdf)
 
 ## Description
 The book talks about using math logic to optimize GenAI for the rapidly application construction. It introduces SCRIPT (Subject Creates Relevant, Impactful and Polished Technology) - a methodology for iterative GenAI prompt engineering. While the technology stack is following, one could use this methodology (language agnostic) with any programming languages.
