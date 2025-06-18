@@ -4,9 +4,13 @@ The book titled - Joe's Adventure in Architecture, Using SCRIPT to maximize GenA
 
 ![My Screenshot](./images/book-cover.png)
 
+## [-> Read the Draft Online Now <-](https://online.fliphtml5.com/kznkp/vaog/#p=1)
+
 ![Cheat Sheet](./attachments/cheat-sheet.png)
 
 [Cheat-sheet.pdf](./attachments/cheat-sheet.pdf)
+
+ 
 
 ## Description
 The book talks about using math logic to optimize GenAI for the rapidly application construction. It introduces SCRIPT (Subject Creates Relevant, Impactful and Polished Technology) - a methodology for iterative GenAI prompt engineering. While the technology stack is following, one could use this methodology (language agnostic) with any programming languages.
