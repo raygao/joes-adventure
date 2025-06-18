@@ -34,3 +34,10 @@ In essense, it discusses, how to reducing (breaking down) long prompts into part
 PDF is provided free of charge. If you like the book and would like to have a paper copy (for the ease of reading and note-taking), you may purchase a book at following dealers.
 
 The source for each chapter is in the correspondingly named folders.
+
+## Images
+![Login Page](./images/login-page.png)
+
+![Weather Forecast](./images/weather-forecast.png)
+
+![Travel Tips](./images/travel-tips.png)
