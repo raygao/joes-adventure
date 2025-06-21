@@ -1,0 +1,20 @@
+Dallas
+Latitude: 39.7456
+Longitude: -97.0892
+
+San Francisco
+Latitude: 37.7749
+Longitude: -122.4194
+
+New York City
+Latitude: 40.7128
+Longitude: -74.0060
+
+Chicago
+Latitude: 41.8781
+Longitude: -87.6298
+
+
+Miami:
+Latitude: 25.793449
+Longitude: -80.139198
