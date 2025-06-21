@@ -4,6 +4,8 @@ The book titled - Joe's Adventure in Architecture, Using SCRIPT to maximize GenA
 
 ![My Screenshot](./images/book-cover.png)
 
+## [-> Test drive the application <-](http://joes-adventure.com:3000/)
+
 ## [-> Read the Draft Online Now <-](https://online.fliphtml5.com/kznkp/vaog/#p=1)
 
 ![Cheat Sheet](./attachments/cheat-sheet.png)
